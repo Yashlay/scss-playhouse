@@ -1,0 +1,20 @@
+{
+  "name": "scss-playhouse",
+  "version": "1.0.0",
+  "description": "Demonstrate functionalities of scss - Syntactically Awesome Style Sheets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yashlay/scss-playhouse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yashlay/scss-playhouse/issues"
+  },
+  "homepage": "https://github.com/Yashlay/scss-playhouse#readme"
+}
